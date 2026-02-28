@@ -20,7 +20,9 @@ body {
 
 /* Header */
 header {
-    background-color: lightcoral;
+    background-color: lightcoral;}
+h1{    
+    font-family;'Oswal', sans-serif;
 }
 
 /* Main content */
